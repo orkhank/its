@@ -544,6 +544,8 @@ def main():
     _test_unsign__rejects_underscores_in_expiration()
     _test_unsign__rejects_wrong_key()
 
+    print("PASSED")  # noqa: T201
+
 
 if __name__ == "__main__":
     main()
