@@ -1,0 +1,6 @@
+{
+  "pythonVersion": "3.15",
+  "typeCheckingMode": "strict",
+  "reportUnnecessaryTypeIgnoreComment": "error",
+  "reportUnusedCallResult": "error"
+}
